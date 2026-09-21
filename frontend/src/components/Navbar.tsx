@@ -4,7 +4,7 @@ function Navbar() {
     const [menuOpen, setMenuOpen] = useState(false);
 
     return (
-        <nav className="absolute top-0 left-0 z-50 w-full border-b border-border/50">
+        <nav className="relative z-50 w-full border-b border-border/50 lg:absolute lg:top-0 lg:left-0">
             <div className="mx-auto max-w-7xl px-6">
                 <div className="flex items-center justify-between py-5">
                     <a
