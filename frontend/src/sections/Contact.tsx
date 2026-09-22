@@ -33,8 +33,7 @@ function Contact() {
                     <div className="flex flex-col justify-between">
                         <div>
                             <p className="max-w-2xl text-sm leading-7 text-text-secondary sm:text-base">
-                                Have a project, opportunity, or just want to
-                                talk about development? Feel free to reach out.
+                                Interested in working together or talking tech? Feel free to reach out.
                             </p>
 
                             <a

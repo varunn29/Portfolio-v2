@@ -20,7 +20,7 @@ function Hero() {
             />
 
             {/* Dark cinematic overlay */}
-            <div className="absolute inset-0 bg-gradient-to-r from-background via-background/80 to-background/10" />
+            <div className="absolute inset-0 bg-gradient-to-r from-background via-background/1 to-background/1" />
 
             {/* Hero content */}
             <div className="relative z-10 mx-auto flex min-h-screen max-w-7xl items-start px-6 pb-16 pt-32 lg:items-center lg:py-20">
@@ -29,7 +29,7 @@ function Hero() {
                     {/* Left content */}
                     <div>
                         <p className="mb-5 text-[10px] font-medium uppercase tracking-[0.24em] text-text-primary sm:mb-6 sm:text-xs sm:tracking-[0.28em]">
-                            Frontend Developer & CS Student
+                            Software Developer & CS Student
                         </p>
 
                         <h1 className="font-display text-5xl leading-[0.95] tracking-tight text-text-primary sm:text-6xl md:text-7xl lg:text-[5.5rem]">
@@ -43,8 +43,7 @@ function Hero() {
                         </h1>
 
                         <p className="mt-6 max-w-md text-sm leading-6 text-text-secondary sm:mt-7 sm:text-base">
-                            I build web applications, learn by building,
-                            and contribute to open source.
+                           I'm Varun, a CS student building for the web. I learn by building, experimenting, and exploring new technologies.
                         </p>
 
                         {/* Actions */}

@@ -26,12 +26,13 @@ function OpenSource() {
                         <p className="max-w-2xl text-sm leading-7 text-text-secondary sm:text-base">
                             I'm exploring open source to learn from real
                             codebases, understand how projects are built and
-                            maintained, and contribute where I can.
+                            maintained, and work toward making meaningful
+                            contributions.
                         </p>
 
                         <div className="mt-10 border-t border-border">
                             <div className="flex items-start gap-5 border-b border-border py-6">
-                                <span className="text-xs uppercase tracking-[0.18em] text-accent">
+                                <span className="pt-0.5 text-xs uppercase tracking-[0.18em] text-accent">
                                     01
                                 </span>
 
@@ -41,44 +42,45 @@ function OpenSource() {
                                     </h3>
 
                                     <p className="mt-2 text-sm leading-6 text-text-secondary">
-                                        Learning how established open-source
-                                        projects are structured, maintained,
-                                        and developed collaboratively.
+                                        Exploring established open-source
+                                        projects to understand their codebases,
+                                        development workflows, and communities.
                                     </p>
                                 </div>
                             </div>
 
                             <div className="flex items-start gap-5 border-b border-border py-6">
-                                <span className="text-xs uppercase tracking-[0.18em] text-accent">
+                                <span className="pt-0.5 text-xs uppercase tracking-[0.18em] text-accent">
                                     02
                                 </span>
 
                                 <div>
                                     <h3 className="text-sm font-medium text-text-primary">
-                                        Working through issues
+                                        Understanding issues
                                     </h3>
 
                                     <p className="mt-2 text-sm leading-6 text-text-secondary">
-                                        Looking for meaningful issues where I
-                                        can understand the codebase and make
-                                        useful contributions.
+                                        Working through issues and codebases to
+                                        understand problems before attempting
+                                        meaningful changes.
                                     </p>
                                 </div>
                             </div>
 
                             <div className="flex items-start gap-5 py-6">
-                                <span className="text-xs uppercase tracking-[0.18em] text-accent">
+                                <span className="pt-0.5 text-xs uppercase tracking-[0.18em] text-accent">
                                     03
                                 </span>
 
                                 <div>
                                     <h3 className="text-sm font-medium text-text-primary">
-                                        Contributing
+                                        Preparing to contribute
                                     </h3>
 
                                     <p className="mt-2 text-sm leading-6 text-text-secondary">
-                                        Making useful contributions and
-                                        learning through collaboration with
+                                        Building the understanding and
+                                        experience needed to make useful
+                                        contributions and collaborate with
                                         other developers.
                                     </p>
                                 </div>
@@ -102,3 +104,4 @@ function OpenSource() {
 }
 
 export default OpenSource;
+
