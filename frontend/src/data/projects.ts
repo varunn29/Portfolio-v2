@@ -17,6 +17,16 @@ export const projects: Project[] = [
         github: "https://github.com/varunn29/ResolveDesk",
         demo: "",
     },
+
+    {
+        title: "Match Point",
+        description: "A sports gaming platform for cricket and football, featuring match markets, dynamic odds, simulated betting, wallet management, and bet settlement. Designed to model real-world sports gaming workflows and transactional betting operations.",
+        technologies: ["React", "TypeScript", "Node.js", "Express", "PostgreSQL"],
+        status: "Building",
+        github: "",
+        demo: ""
+    },
+
     {
         title: "Blog App",
         description:
